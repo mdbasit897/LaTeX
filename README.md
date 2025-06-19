@@ -1,4 +1,9 @@
 # 15 Days Workshop on Scientific Document Writing Using LaTeX
+![alt text](img_cover.jpg)
+<div align="center">
+  <p>Photo by <a href="https://unsplash.com/@beatriz_perez?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Beatriz Pérez Moya</a> on <a href="https://unsplash.com/photos/a-stack-of-thick-folders-on-a-white-surface-XN4T2PVUUgk?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+      </p>
+</div>
 
 ## About This Course
 
